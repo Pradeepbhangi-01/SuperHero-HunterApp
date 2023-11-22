@@ -17,3 +17,5 @@ This is a superhero hunter project where you can search your favourite superhero
 2.JavaScript
 
 3.CSS
+
+Site is live at https://pradeepbhangi-01.github.io/SuperHero-HunterApp/
