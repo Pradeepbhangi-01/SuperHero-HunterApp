@@ -18,4 +18,6 @@ This is a superhero hunter project where you can search your favourite superhero
 
 3.CSS
 
-Site is live at https://pradeepbhangi-01.github.io/SuperHero-HunterApp/
+Site is live at:- https://pradeepbhangi-01.github.io/SuperHero-HunterApp/
+
+Video link:- https://youtu.be/pSPnGkFp5Tc
