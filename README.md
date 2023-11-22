@@ -2,7 +2,7 @@ SuperHero-HunterApp
 
 About
 
-This is a superhero hunter project where you can search your favourite superheroes. It uses the official Marvel API
+This is a superhero hunter project where you can search your favourite superheroes. It uses the official Marvel API.
 
 **Features**
 
